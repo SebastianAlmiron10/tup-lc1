@@ -15,11 +15,14 @@ int main(){
     return 0;
 }
 int esPrimo(int numero){
-    if (numero%2 == 0)
-    {
+     int i;
+    if (numero <= 1) {
         return 0;
-    }else {
-        return 1;
     }
-    
+    for (i = 2; i < numero; i++) {
+        if (numero % i == 0) {
+            return 0;
+        }
+    } 
+    return 1;
 }

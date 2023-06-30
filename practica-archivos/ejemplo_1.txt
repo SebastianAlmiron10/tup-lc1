@@ -1,2 +1,4 @@
-Hola a todos!
-Estamos llegando al final de LC1...
+* * * * * * * * * * * * * * * * * * * * * * *
+*   Hola a todos!                           *
+*   Estamos llegando al final de LC1...    *
+* * * * * * * * * * * * * * * * * * * * * * *
